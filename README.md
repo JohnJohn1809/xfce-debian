@@ -1,2 +1,2 @@
 # xfce-debian
-My debian xfce posinstall
+My debian xfce posinstall (test)
